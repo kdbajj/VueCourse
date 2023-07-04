@@ -1,4 +1,5 @@
 {
+ 
   "name": "build-a-bot",
   "version": "0.1.0",
   "private": true,
@@ -20,6 +21,8 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-import": "^2.20.2",
-    "eslint-plugin-vue": "^7.0.0"
+    "eslint-plugin-vue": "^7.0.0",
+    "volar-service-vetur": "latest"
   }
+  
 }
