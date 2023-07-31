@@ -39,6 +39,9 @@ body {
   color: #1d1c1c;
 
 }
+</style>
+
+<style scoped>
 main{
   margin: 0 auto;
   padding: 30px;
