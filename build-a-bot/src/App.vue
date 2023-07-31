@@ -15,7 +15,6 @@
     </main>
   </div>
 </template>
-
 <script>
 // import HomePage from './home/HomePage.vue';
 import RobotBuilder from './build/RobotBuilder.vue';

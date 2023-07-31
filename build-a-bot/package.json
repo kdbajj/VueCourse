@@ -1,5 +1,4 @@
 {
- 
   "name": "build-a-bot",
   "version": "0.1.0",
   "private": true,
@@ -9,7 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "core-js": "^3.6.5",
+    "core-js": "^3.32.0",
     "vue": "^3.0.0"
   },
   "devDependencies": {
@@ -20,9 +19,8 @@
     "@vue/eslint-config-airbnb": "^5.0.2",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
-    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-import": "^2.28.0",
     "eslint-plugin-vue": "^7.0.0",
     "volar-service-vetur": "latest"
   }
-  
 }
