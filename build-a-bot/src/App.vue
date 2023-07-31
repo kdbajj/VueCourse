@@ -11,6 +11,9 @@
       </nav>
     </header>
     <main>
+      <div class="robot-name">
+        This is a test
+      </div>
       <RobotBuilder />
     </main>
   </div>
@@ -42,6 +45,7 @@ body {
 </style>
 
 <style scoped>
+.robot-name {color: red;}
 main{
   margin: 0 auto;
   padding: 30px;
